@@ -54,7 +54,3 @@ Xin chào, mình là **Monas** 👋 — một người làm DevOps & bảo mật
 * 🧵 Twitter: [@monasteryx](https://twitter.com/monasteryx)
 
 > "Không nói nhiều. Chỉ log đầy đủ."
-
----
-
-![Monas footer](https://user-images.githubusercontent.com/placeholder/footer-monas.png)
