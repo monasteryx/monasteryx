@@ -2,8 +2,6 @@
 
 > *"Một thánh địa số, nơi hệ thống tự sửa mình bằng logic và sự tĩnh lặng."*
 
-![Monas Banner](https://user-images.githubusercontent.com/placeholder/banner-monas.png)
-
 ---
 
 ## 🧠 Giới thiệu
