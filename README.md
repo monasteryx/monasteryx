@@ -129,9 +129,7 @@
 ---
 
 <div align="center">
-  
-  ![Profile Views](https://profile-counter.glitch.me/monasteryx/count.svg)
-  
+    
   **"Less talk, more logs. Better systems through observability."**
   
   ⭐️ From [monasteryx](https://github.com/monasteryx) | Open to collaboration and consulting opportunities
