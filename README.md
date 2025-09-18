@@ -19,7 +19,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> About Me
 
@@ -34,21 +33,10 @@
 
 > 💡 *"A sufficiently quiet system will show you exactly where it's broken."*
 
----
 
-## 🛠️ Tech Stack
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-| Area         | Main Tools / Tech            |
-| ------------ | --------------------------- |
-| Languages    | Go, Python, TypeScript, Bash|
-| Cloud        | AWS, GCP, Azure, DigitalOcean|
-| DevOps       | Docker, Kubernetes, Terraform, Ansible, GitHub Actions |
-| Monitoring   | Prometheus, Grafana, ELK, Datadog |
-| Security     | Nginx, WireGuard, Burp Suite, Metasploit |
-| Databases    | PostgreSQL, MongoDB, Redis  |
-| OS & Tools   | Linux, Ubuntu, VS Code, Vim |
 
----
 
 ## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="35"> Featured Projects
 
@@ -57,28 +45,13 @@
 - **SecureProxy Stack:** High-performance reverse proxy & threat blocking. *99.99% uptime, 2M+ reqs/day.*
 - **InfraMonitor Suite:** ML-powered infra monitoring & auto-remediation. *Reduced MTTR by 70%.*
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/3oKIPqsXYcdjcBcXL2/giphy.gif" width="35"> Certifications
 
-| Certification                                      | Issuer / Focus     |
-| -------------------------------------------------- | ------------------ |
-| Certified Kubernetes Administrator (CKA)           | CNCF               |
-| AWS Solutions Architect Associate                  | Amazon Web Services|
-| Google Professional Cloud Architect                | Google Cloud       |
-| CISSP Associate                                    | ISC2               |
-| Azure DevOps Engineer                              | Microsoft          |
-| Docker Certified Associate                         | Docker             |
-| Terraform Associate                               | HashiCorp          |
-| Security+                                         | CompTIA            |
-
----
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Analytics
 
 <div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=monasteryx&theme=tokyonight&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=monasteryx&theme=react-dark&hide_border=true)
 
@@ -86,7 +59,8 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Connect & Collaborate
 
@@ -100,7 +74,8 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <div align="center">
 
@@ -113,9 +88,3 @@
 ⭐️ From [monasteryx](https://github.com/monasteryx) | Open to collaboration and consulting opportunities!
 
 </div>
-
-<!--
-🎊 Congratulations! You found the easter egg! 🎊
-If you're reading this, you're probably a developer who appreciates attention to detail.
-Feel free to reach out - I'd love to connect with fellow developers!
--->
