@@ -1,4 +1,3 @@
-
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there, I'm Monas 
 
 <div align="center">
@@ -13,7 +12,7 @@
   
   <br/>
   
-  **✨ "In the digital realm, systems self-heal through logic and observability." ✨**
+  **✨ "Always learning, always improving through hands-on experience." ✨**
   
 </div>
 
@@ -24,26 +23,73 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-**🎯 Senior DevOps & Security Engineer** with 5+ years of experience in cybersecurity and infrastructure management. Specialized in building secure, observable, and resilient systems.
+**🎯 DevOps & Security Engineer** with experience in cybersecurity and infrastructure management. Passionate about building secure, observable, and resilient systems.
 
-- 🔒 **Cybersecurity & Threat Intelligence:** Malware analysis, vulnerability assessments, and penetration testing
-- ⚙️ **DevOps & SRE:** CI/CD, automation, and cloud-native infrastructure
-- 📊 **Observability & Incident Response:** Monitoring, alerting, and incident handling
-- 🐛 **Bug Bounty:** Active on top platforms, 200+ vulnerabilities found
+- 🔒 **Cybersecurity & Threat Intelligence:** Learning through malware analysis, vulnerability assessments, and penetration testing
+- ⚙️ **DevOps & SRE:** Working with CI/CD, automation, and cloud-native infrastructure
+- 📊 **Observability & Incident Response:** Implementing monitoring, alerting, and incident handling solutions
+- 🐛 **Bug Bounty:** Contributing to security research on various platforms
 
-> 💡 *"A sufficiently quiet system will show you exactly where it's broken."*
+> 💡 *"Every bug teaches something new, every fix makes systems better."*
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
-## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="35"> Featured Projects
+## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="35"> Projects I'm Working On
 
-- **CredWatch Intelligence:** Real-time credential leak monitoring with dark web surveillance. *Prevented 500+ breaches.*
-- **MalwareAnalyzer Pro:** Automated malware analysis and ML-based detection. *10K+ samples analyzed.*
-- **SecureProxy Stack:** High-performance reverse proxy & threat blocking. *99.99% uptime, 2M+ reqs/day.*
-- **InfraMonitor Suite:** ML-powered infra monitoring & auto-remediation. *Reduced MTTR by 70%.*
+<table width="100%">
+<tr>
+<th align="left" width="25%">🚀 <strong>Project</strong></th>
+<th align="left" width="45%">📝 <strong>Description</strong></th>
+<th align="left" width="30%">🛠️ <strong>Tech Stack</strong></th>
+</tr>
+<tr>
+<td><strong>🔐 SecureWatch Credential Intelligence Platform</strong></td>
+<td>Comprehensive real-time credential monitoring system with advanced dark web surveillance capabilities, threat intelligence integration, and automated breach notification alerts for enterprise security teams</td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<br/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+</td>
+</tr>
+<tr>
+<td><strong>🧠 AI-Powered Malware Analysis & Detection Engine</strong></td>
+<td>Advanced automated malware analysis framework powered by machine learning algorithms, featuring dynamic sandbox execution, behavioral pattern recognition, and intelligent threat classification for cybersecurity professionals</td>
+<td>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+</td>
+</tr>
+<tr>
+<td><strong>🌐 Enterprise Security Proxy & Traffic Control Hub</strong></td>
+<td>High-performance enterprise-grade reverse proxy solution with advanced threat protection system, DDoS mitigation, SSL/TLS termination, load balancing, and comprehensive security monitoring dashboard for modern applications</td>
+<td>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
+<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" alt="NGINX"/>
+<br/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
+</td>
+</tr>
+<tr>
+<td><strong>📊 Intelligent Infrastructure Monitoring & Automation Suite</strong></td>
+<td>Smart cloud-native infrastructure monitoring platform with predictive analytics, automated remediation capabilities, performance optimization, incident management, and comprehensive observability tools for DevOps teams</td>
+<td>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white" alt="InfluxDB"/>
+<br/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible"/>
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -79,12 +125,12 @@
 
 <div align="center">
 
-**"Less talk, more logs. Better systems through observability."**
+**"Learning every day, contributing where I can."**
 
 ![Made with Love](https://img.shields.io/badge/Made%20with-❤️-FF6B6B?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/Open%20Source-💙-4ECDC4?style=for-the-badge)
 ![Security First](https://img.shields.io/badge/Security-First-96CEB4?style=for-the-badge)
 
-⭐️ From [monasteryx](https://github.com/monasteryx) | Open to collaboration and consulting opportunities!
+⭐️ From [monasteryx](https://github.com/monasteryx) | Always open to learning and collaboration!
 
 </div>
