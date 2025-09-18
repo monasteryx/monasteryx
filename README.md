@@ -18,17 +18,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"/> Quick Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monasteryx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monasteryx&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=36BCF7&text_color=ffffff)
-  
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> About Me
 
@@ -288,14 +277,6 @@ Comprehensive infrastructure monitoring with predictive alerting and auto-remedi
 </tr>
 </table>
 
-### 🏗️ Open Source Contributions
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=monasteryx&repo=security-tools&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/monasteryx)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=monasteryx&repo=devops-automation&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/monasteryx)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/3oKIPqsXYcdjcBcXL2/giphy.gif" width="35"> Professional Certifications
 
