@@ -1,4 +1,4 @@
-````markdown
+
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there, I'm Monas 
 
 <div align="center">
@@ -119,4 +119,3 @@
 If you're reading this, you're probably a developer who appreciates attention to detail.
 Feel free to reach out - I'd love to connect with fellow developers!
 -->
-````
